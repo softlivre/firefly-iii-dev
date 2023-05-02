@@ -1,0 +1,10 @@
+/node_modules
+/frontend/node_modules
+/storage/*.key
+/vendor
+/.vagrant
+npm-debug.log
+yarn-error.log
+.env
+/.ci/php-cs-fixer/vendor
+/.ci/coverage
